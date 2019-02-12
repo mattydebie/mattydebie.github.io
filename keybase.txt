@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/mattydebie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mattydebie.be
+  * I am mattydebie (https://keybase.io/mattydebie) on keybase.
+  * I have a public key with fingerprint 9816 3C4E 60A1 21E8 C927  7162 B0C9 7E86 1078 FF72
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012089364e79db13ea6cc5b5674bef99f6836ac31afbb2615da72472992b1e2a55620a",
+      "fingerprint": "98163c4e60a121e8c9277162b0c97e861078ff72",
+      "host": "keybase.io",
+      "key_id": "b0c97e861078ff72",
+      "kid": "0101be09aa15161842ab7c244c422f9b11a1a247c5be2372b9476d5a76462969c9310a",
+      "uid": "188c3312ac4a85cdceced7fa74baf419",
+      "username": "mattydebie"
+    },
+    "merkle_root": {
+      "ctime": 1549988096,
+      "hash_meta": "d9c4a13e97f197996044e0d454bb54f98dedd9c1eb5a5fdc9099a0fcdd3764e1",
+      "seqno": 4750762
+    },
+    "revoke": {
+      "sig_ids": [
+        "8540b592a00daf86a90b35ea9209f4690b92938c1a739061156451374792926e0f"
+      ]
+    },
+    "service": {
+      "hostname": "mattydebie.be",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1549988109,
+  "expire_in": 157680000,
+  "prev": "da3857ffc35bca89775b66b166dc8b39dc54104986a7c7f15e52e1e5d5969914",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtk31oV1UYx3/TzTZxY5TMJIK8Fr5ss3POPa8/jUH9UWT5hm9k9uu83e2y7Xd/
+3nu3Nk2dQcpMJLEXTZvKMhDNJCVBijWiQhJLSIxeFmZm7yhjf/SHrnNHI6LuP5fz
+3O/zPN/n89zzYvXEXGXZibObttZ2jcZln/6sck+qG3UbPBWZbi+/wWu1Yy/bZmyS
+FlpD4+U9ABHgwqfYMmEU9K2kWhNFKMPKBkIElPtUah/KQClEITGSIcyQEEhBiyQh
+FAHpNXhBWGy2cSkOi6krKzikvsaWAgkRtFwLxBikSAEtmOUUAsaDgCGX2BIlWYYz
+p2Ri54WRi7lDYcze/+jHfQOoLBBSQgIp5BhJxTTCWGOEAqEglFA6o24Wi3yGlMCM
+GiIZxRQJKrTw4ZjvjrFykHPt+xBJjSUn2mirrWGBdBRkgKHIhImNi7LdOnW7TNNu
+Y1VovY0NXruNW9tsIY6iNMOr0zATQYKF4BwI6kaUSUuh3abS5RrhWjjOggVQMCEo
+wNgCgwlWiuBAcGON00CriCSB0QIIIUGgjfGddwudk8SuK0ZeHjMCGEXOQWw7o1ab
+NU/CZgcu8fJrPE4+WI+BIgJJAIwMOJUCKJ9YKRAQAabuJJDwuYaS+QJQCAnFBPoM
+MxdH1ILAW7sxaxd3hnqsfLar/zCYp6wzVYqjNNJRm/vUkqalJJ+hSbtLmfYZqwp/
+VymosGjcr+IyOm2chFHRoXLKf1ODQDR4tqsUxrYQZgrCKAfuyfrYzgyj9DlhQaB9
+orTkgjGiKFWQUqO58oXRBEOAhZuaaYeaWIIstMQQt3wB8T8YIXY+ZbOr6eAVZdoR
+u61O7i3zy3Nllbm762aU76lbsOjpQzN+OjtrnRq/XhUTsruVm1xVOx4Zev+20c3X
+3up/+MoA7z+wfPiN3a9/dw8dauRHZl1beXHZoX1f/g53fHX9zi1XO5e+gk6f+LNq
+TuWDFet35fLhyw9d7v361LatH8GebU19q1ZemDLp5mtPVHd9cb126dXS5ZnDjQff
+eWn/skub7v9+oGfJ/pMTtu8YGH28sWpqxfN/7P3EXz3nXLJv55mRc9+eHHjg88F7
+F22f3bozd/sdHY8eeXWNnFT/wkI6OHH55iVHF7f98MhvQ0ffO1zNf61KLtQu/qVj
+2sj5W3d9/FnN7F3vPvvhMD899fzb5TcXzp3eN39B3zeP1dfM7D11sb9sVf3IwSlN
+x66sOH7frTcvTRtYfWDPsenzu3+8sZb1nKltKgwePr7lqd3P1fwF
+=7YSL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mattydebie
+
+==================================================================
+
