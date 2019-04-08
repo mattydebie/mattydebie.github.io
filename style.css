@@ -5,7 +5,8 @@
 
 body {
   height: 100vh;
-  background-image: linear-gradient(to bottom right, blue, lightblue);
+  color: white;
+  background-image: linear-gradient(to bottom right, #444, #aaa);
 }
 
 div.container {
